@@ -48,6 +48,12 @@ Perfect for anyone looking to:
 
 ---
 
+## 🚀 Live Demo
+
+Check out the live app here: [Breast Cancer Classifier Explorer](https://breast-cancer-ml-classifier.streamlit.app/)
+
+---
+
 ## 🙋‍♀️ Author
 
 Developed by **Sanghamitra Goswami**
